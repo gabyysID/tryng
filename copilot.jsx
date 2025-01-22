@@ -1,5 +1,4 @@
 //teste do copilot com login simples
-//coisas que eu odeio sem motivo nenhum: hora do café
 import React, { useState } from 'react';
 import styled from 'styled-components';
 
