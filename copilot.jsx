@@ -1,4 +1,4 @@
-//teste do copilot com login simples
+//teste do copilot com login simples drop like is hot 
 import React, { useState } from 'react';
 import styled from 'styled-components';
 
@@ -8,7 +8,7 @@ const Container = styled.div`
   align-items: center;
   height: 100vh;
   background: linear-gradient(135deg, #f6d365 0%, #fda085 100%);
-`;
+`; 
 
 const Form = styled.form`
   background: white;
@@ -42,7 +42,7 @@ const Button = styled.button`
     background-color: #feb47b;
   }
 `;
-
+//TCHAU
 const Title = styled.h2`
   text-align: center;
   margin-bottom: 1.5rem;
